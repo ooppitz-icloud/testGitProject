@@ -6,6 +6,8 @@ public class Hallo {
 		
 		
 		System.out.println("Hallo-Welt auf Deutsch!");
+		
+		System.out.println("Noch eine Zeile");
 
 	}
 
